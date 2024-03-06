@@ -71,10 +71,10 @@ document.addEventListener('visibilitychange',
 
 // <!-- typed js effect starts -->
 var typed = new Typed(".typing-text", {
-    strings: ["DevOps methodology", "Cloud Computing","Linux Operating System",""],
+    strings: ["frontend development", "backend development", "web designing", "android development", "web development"],
     loop: true,
-    typeSpeed: 45,
-    backSpeed: 20,
+    typeSpeed: 50,
+    backSpeed: 25,
     backDelay: 500,
 });
 // <!-- typed js effect ends -->
@@ -244,7 +244,7 @@ srtop.reveal('.work .box', { interval: 200 });
 
 /* SCROLL EXPERIENCE */
 srtop.reveal('.experience .timeline', { delay: 400 });
-srtop.reveal('.experience .timeline .container', { interval: 400 });`
+srtop.reveal('.experience .timeline .container', { interval: 400 });
 
 /* SCROLL CONTACT */
 srtop.reveal('.contact .container', { delay: 400 });
