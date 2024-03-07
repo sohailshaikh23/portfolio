@@ -269,7 +269,7 @@
       <div class="image-box">
         <img draggable="false" src="./assets/images/contact1.png" alt="">
       </div>
-    <form method="post" action="https://script.google.com/macros/s/AKfycby7THlsvfldkSMuUAz5JCesVvNb-Z2IxIILQ4ZJKeUEZqRsoZs1UARSQO6mh7fDEqZNfA/exec"  name="contact-form" id="contactform">
+    <form method="post" action=""  name="contactform" id="contactform">
 
       <div class="form-group">
         <div class="field">
@@ -298,6 +298,24 @@
     </form>
   </div>
   </div>
+
+
+
+<script>
+        const scriptURL = 'https://script.google.com/macros/s/AKfycby7THlsvfldkSMuUAz5JCesVvNb-Z2IxIILQ4ZJKeUEZqRsoZs1UARSQO6mh7fDEqZNfA/exec'
+        const form = document.forms['contactform']
+
+        form.addEventListener('submit', e => {
+          e.preventDefault()
+          fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+                .then(response => alert("Thank you! submitted successfully." ))
+                .then(() => {  window.location.reload(); })
+                .catch(error => console.error('Error!', error.message))
+        })
+</script>
+
+
+
 </section>
 <!-- contact section ends -->
 
