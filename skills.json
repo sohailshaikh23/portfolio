@@ -1,47 +1,47 @@
 [
     {
-        "name": "ReactJS",
-        "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-react-a-javascript-library-for-building-user-interfaces-logo-color-tal-revivo.png"
+        "name": "Linux",
+        "icon": "https://icons8.com/icon/HF4xGsjDERHf/linux"
     },
     {
-        "name": "ExpressJS",
-        "icon": "https://img.icons8.com/fluency/48/000000/node-js.png"
+        "name": "Ubuntu",
+        "icon": "https://icons8.com/icon/63208/ubuntu"
     },
     {
-        "name": "NodeJS",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+        "name": "Computer Networking",
+        "icon": "https://icons8.com/icon/SkX7LMkdhJQ1/computer-networking"
     },
     {
-        "name": "Redux",
-        "icon": "https://img.icons8.com/color/48/000000/redux.png"
+        "name": "Arduino",
+        "icon": "https://icons8.com/icon/Of4lZV2lwBQI/arduino"
     },
     {
-        "name": "Firebase",
-        "icon": "https://img.icons8.com/color/48/000000/firebase.png"
+        "name": "Jira",
+        "icon": "https://icons8.com/icon/oROcPah5ues6/jira"
     },
     {
-        "name": "Android",
-        "icon": "https://img.icons8.com/fluency/48/000000/android-os.png"
+        "name": "Git VCS",
+        "icon": "https://icons8.com/icon/20906/git"
     },
     {
-        "name": "MaterialUI",
-        "icon": "https://img.icons8.com/color/48/000000/material-ui.png"
+         "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
     },
     {
-        "name": "ChakraUI",
-        "icon": "https://img.icons8.com/color/48/000000/chakra-ui.png"
+        "name": "Jenkins ",
+        "icon": "https://icons8.com/icon/39292/jenkins"
     },
     {
-        "name": "TailwindCSS",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/48px-Tailwind_CSS_Logo.png"
+        "name": "Docker",
+        "icon": "https://icons8.com/icon/zFAYIdFZlGxP/docker-a-set-of-coupled-software-as-a-service"
     },
     {
-        "name": "Bootstrap",
-        "icon": "https://img.icons8.com/color/48/000000/bootstrap.png"
+        "name": "Kubernetes",
+        "icon": "https://icons8.com/icon/cvzmaEA4kC0o/kubernetes"
     },
     {
-        "name": "Sass",
-        "icon": "https://img.icons8.com/color/48/000000/sass.png"
+        "name": "nginx",
+        "icon": "https://icons8.com/icon/t2x6DtCn5Zzx/nginx"
     },
     {
         "name": "HTML5",
@@ -89,7 +89,7 @@
     },
     {
         "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+        "icon": "https://icons8.com/icon/e6uRfPIDgoXi/amazon-aws"
     },
     {
         "name": "Heroku",
