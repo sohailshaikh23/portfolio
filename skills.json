@@ -12,6 +12,10 @@
         "icon": "https://img.icons8.com/fluency/48/arduino.png"
     },
     {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/amazon-web-services.png"
+    },
+    {
         "name": "Jira",
         "icon": "https://img.icons8.com/color/48/jira.png"
     },
@@ -83,10 +87,7 @@
         "name": "PostgreSQL",
         "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
     },
-    {
-        "name": "AWS",
-        "icon": "https://icons8.com/icon/e6uRfPIDgoXi/amazon-aws"
-    },
+    
     {
         "name": "Heroku",
         "icon": "https://img.icons8.com/color/48/000000/heroku.png"
