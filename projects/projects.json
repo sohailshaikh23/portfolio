@@ -3,7 +3,7 @@
     "name": "Node Todo list WebApp",
     "desc": "This is Todo list Web App based on NodeJS, Containerized using Docker, Deployed using kubernetes, Continuously Build CICD with Jenkins",
     "image": "notystackandroid",
-    "category": "android",
+    "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/"
@@ -13,7 +13,7 @@
     "name": "Djando notes WebApp",
     "desc": "This is Notes WebApp based on Django, It is Containerized using Docker and Deployed using kubernetes to make sure it is HA and scalable ,Continuously Build with Jenkins",
     "image": "sppuprepandroid",
-    "category": "android",
+    "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/"
@@ -23,7 +23,7 @@
     "name": "2048 Web game",
     "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
     "image": "newsboxandroid",
-    "category": "android",
+    "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/"
@@ -33,7 +33,7 @@
     "name": "Netflix Clone",
     "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
     "image": "weatherlyandroid",
-    "category": "android",
+    "category": "basicweb",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/"
