@@ -1,15 +1,11 @@
 [
     {
         "name": "Linux",
-        "icon": "https://icons8.com/icon/48/linux--v1.png"
+        "icon": "https://img.icons8.com/icon/48/linux--v1.png"
     },
     {
         "name": "Ubuntu",
-        "icon": "https://icons8.com/color/48/ubuntu--v1.png" 
-    },
-    {
-        "name": "Computer Networking",
-        "icon": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-computer-networking-digital-economy-business-flatart-icons-outline-flatarticons.png"
+        "icon": "https://img.icons8.com/color/48/ubuntu--v1.png" 
     },
     {
         "name": "Arduino",
