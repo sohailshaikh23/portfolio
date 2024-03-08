@@ -5,23 +5,23 @@
     },
     {
         "name": "Ubuntu",
-        "icon": "https://icons8.com/icon/63208/ubuntu" 
+        "icon": "https://icons8.com/color/48/ubuntu--v1.png" 
     },
     {
         "name": "Computer Networking",
-        "icon": "https://icons8.com/icon/SkX7LMkdhJQ1/computer-networking"
+        "icon": "https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/external-computer-networking-digital-economy-business-flatart-icons-outline-flatarticons.png"
     },
     {
         "name": "Arduino",
-        "icon": "https://icons8.com/icon/Of4lZV2lwBQI/arduino"
+        "icon": "https://img.icons8.com/fluency/48/arduino.png"
     },
     {
         "name": "Jira",
-        "icon": "https://icons8.com/icon/oROcPah5ues6/jira"
+        "icon": "https://img.icons8.com/color/48/jira.png"
     },
     {
         "name": "Git VCS",
-        "icon": "https://icons8.com/icon/20906/git"
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
     },
     {
          "name": "GitHub",
@@ -29,23 +29,23 @@
     },
     {
         "name": "Jenkins ",
-        "icon": "https://icons8.com/icon/39292/jenkins"
+        "icon": "https://img.icons8.com/color/48/jenkins.png"
     },
     {
         "name": "Docker",
-        "icon": "https://icons8.com/icon/zFAYIdFZlGxP/docker-a-set-of-coupled-software-as-a-service"
+        "icon": "https://img.icons8.com/color/48/docker.png"
     },
     {
         "name": "Kubernetes",
-        "icon": "https://icons8.com/icon/cvzmaEA4kC0o/kubernetes"
+        "icon": "https://img.icons8.com/color/48/kubernetes.png"
     },
     {
         "name": "nginx",
-        "icon": "https://icons8.com/icon/t2x6DtCn5Zzx/nginx"
+        "icon": "https://img.icons8.com/color/48/nginx.png"
     },
     {
         "name": "HTML",
-        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+        "icon": "https://img.icons8.com/color/48/tomcat.png"
     },
     {
         "name": "CSS3",
@@ -109,7 +109,7 @@
     },
     {
         "name": "Git VCS",
-        "icon": "https://img.icons8.com/color/48/000000/git.png"
+        "icon": ""
     },
     {
         "name": "GitHub",
