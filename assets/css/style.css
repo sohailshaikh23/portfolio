@@ -87,14 +87,14 @@ section {
   color: rgb(115, 3, 167);
 }
 header .logo {
-  font-size: 4.5rem;
-  font-weight: 800;
+  font-size: 3.5rem;
+  font-weight: 300;
   text-decoration: none;
   color: #0e2431;
   font-family: 'Brush Script MT', cursive;
 }
 header .logo i {
-  font-size:4.5rem;
+  font-size:3.5rem;
   color:orange;
 }
 
