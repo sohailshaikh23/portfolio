@@ -54,5 +54,22 @@
     {
         "name": "Ansible",
         "icon": "https://img.icons8.com/color/48/ansible.png"
-    }  
+    },
+    {
+        "name": "Slack",
+        "icon": "https://img.icons8.com/color/48/slack-new.png"
+    },
+    {
+        "name": "Testrails",
+        "icon": "https://img.icons8.com/fluency/48/testrail.png"
+    },
+    {
+        "name": "",
+        "icon": ""
+    },
+    {
+        "name": "",
+        "icon": ""
+    }
+    
 ]
