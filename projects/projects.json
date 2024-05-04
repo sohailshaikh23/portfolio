@@ -1,14 +1,26 @@
 [
   {
-    "name": "Bloggig web application",
+    "name": "3-TierBloggig web application",
     "desc": "3 Tier (Blogging web app) Deployment with Docker and Kubernetes Container Orchestration:",
-    "image": "notystackandroid",
+    "image": "wanderlust_png",
+    "category": "major",
+    "links": {
+      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/"
+    }
+  },
+  
+  {
+    "name": "Netflix Clone",
+    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
+    "image": "weatherlyandroid",
     "category": "minor",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
       "code": "https://github.com/"
     }
-  }{
+  },
+  {
     "name": "Node Todo list WebApp",
     "desc": "This is Todo list Web App based on NodeJS, Containerized using Docker, Deployed using kubernetes, Continuously Build CICD with Jenkins",
     "image": "notystackandroid",
@@ -32,16 +44,6 @@
     "name": "2048 Web game",
     "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
     "image": "newsboxandroid",
-    "category": "minor",
-    "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/"
-    }
-  },
-  {
-    "name": "Netflix Clone",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
     "category": "minor",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
