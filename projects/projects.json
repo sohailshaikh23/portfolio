@@ -2,7 +2,7 @@
   {
     "name": "3-Tier Bloggig web application",
     "desc": "3 Tier (Blogging web app) Deployment with Docker and Kubernetes Container Orchestration.",
-    "image": "wanderlust_png",
+    "image": "wanderlust_png.PNG",
     "category": "major",
     "links": {
       "view": "<LINKEDIN>",
