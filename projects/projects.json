@@ -1,6 +1,6 @@
 [
   {
-    "name": "3-TierBloggig web application",
+    "name": "3-Tier Bloggig web application",
     "desc": "3 Tier (Blogging web app) Deployment with Docker and Kubernetes Container Orchestration.",
     "image": "wanderlust_png",
     "category": "major",
@@ -10,7 +10,7 @@
     }
   },
   {
-    "name": "3-tier Notes-webapp",
+    "name": "3-Tier Notes-webapp application",
     "desc": "End to End 3-tier web application deployment using Jenkins, Docker and Kubernetes.",
     "image": "reactprojects",
     "category": "major",
@@ -42,71 +42,31 @@
   {
     "name": "Node Todo list WebApp",
     "desc": "This is Todo list Web App based on NodeJS, Containerized using Docker, Deployed using kubernetes, Continuously Build CICD with Jenkins",
-    "image": "notystackandroid",
+    "image": "node-todo",
     "category": "minor",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/"
+      "view": "LINKEDIN",
+      "code": "https://github.com/sohailshaikh23/node-todo.git
     }
   },
   {
-    "name": "Djando notes WebApp",
+    "name": "Djando based WebApp",
     "desc": "This is Notes WebApp based on Django, It is Containerized using Docker and Deployed using kubernetes to make sure it is HA and scalable ,Continuously Build with Jenkins",
-    "image": "sppuprepandroid",
+    "image": "djando-notes",
     "category": "minor",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/"
+      "code": "https://github.com/sohailshaikh23/django-notes.git"
     }
   },
   {
     "name": "2048 Web game",
-    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
-    "image": "newsboxandroid",
+    "desc": "",
+    "image": "2048-game",
     "category": "minor",
     "links": {
       "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/"
-    }
-  },
-  {
-    "name": "AWS lift and shift",
-    "desc": "Full-Stack Instagram clone built using major stack and realtime chat with the help of socket.iO",
-    "image": "instagrammajor",
-    "category": "aws",
-    "links": {
-      "view": "https://instagramajorstack.herokuapp.com/",
-      "code": "https://github.com/"
-    }
-  },
-  {
-    "name": "2 tier Application",
-    "desc": "Full-Stack Flipkart with Admin Dashboard and Paytm Payment Gateway. major Stack WebApp, ready to use for business.",
-    "image": "flipkartmajor",
-    "category": "major",
-    "links": {
-      "view": "https://flipkartwebs.herokuapp.com/",
-      "code": "https://github.com/"
-    }
-  },
-  {
-    "name": "3-tier voting Application",
-    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
-    "image": "resumegen",
-    "category": "major",
-    "links": {
-      "view": "https://resumegenx.netlify.app/",
-      "code": "https://github.com/"
-    }
-  },
-  {
-    "name": "3-tier Web Application",
-    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
-    "image": "reactprojects",
-    "category": "major",
-    "links": {
-      "view": "https://reactjsprojects.herokuapp.com/",
-      "code": "https://github.com/"
+      "code": "https://github.com/sohailshaikh23/2048-game.git"
     }
   }
 ]
