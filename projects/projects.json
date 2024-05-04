@@ -1,23 +1,23 @@
 [
   {
     "name": "3-TierBloggig web application",
-    "desc": "3 Tier (Blogging web app) Deployment with Docker and Kubernetes Container Orchestration:",
+    "desc": "3 Tier (Blogging web app) Deployment with Docker and Kubernetes Container Orchestration.",
     "image": "wanderlust_png",
     "category": "major",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/"
+      "view": "<LINKEDIN>",
+      "code": "https://github.com/sohailshaikh23/wanderlust.git"
     }
   },
   
   {
-    "name": "Netflix Clone",
-    "desc": "Native android app built using Java, XML and Volley dependencies. Provides weather forecast.",
-    "image": "weatherlyandroid",
-    "category": "minor",
+    "name": "3-tier Notes-webapp",
+    "desc": "End to End 3-tier web application deployment using Jenkins, Docker and Kubernetes.",
+    "image": "reactprojects",
+    "category": "major",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/"
+      "view": "<LINKEDIN>",
+      "code": "https://github.com/sohailshaikh23/3-tier-application-notes.git"
     }
   },
   {
