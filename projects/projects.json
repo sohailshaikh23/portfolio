@@ -22,7 +22,7 @@
   {
     "name": "Programming languages voting web-app",
     "desc": "End to End 3-tier web application deployment using Jenkins, Docker and Kubernetes.",
-    "image": "Programming_language_voting_app",
+    "image": "Programming_language_voting_app.PNG",
     "category": "major",
     "links": {
       "view": "<LINKEDIN>",
