@@ -7,6 +7,14 @@
         "name": "Jenkins ",
         "icon": "https://img.icons8.com/color/48/jenkins.png"
     },
+      {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/figma--v1.png"
+    },
+     {
+        "name": "Atlassian Jira",
+        "icon": "https://img.icons8.com/color/48/jira.png"
+    },
     {
         "name": "Docker",
         "icon": "https://img.icons8.com/color/48/docker.png"
@@ -23,10 +31,7 @@
         "name": "Ubuntu",
         "icon": "https://img.icons8.com/color/48/ubuntu--v1.png" 
     },
-    {
-        "name": "Jira",
-        "icon": "https://img.icons8.com/color/48/jira.png"
-    },
+    
     {
         "name": "Git VCS",
         "icon": "https://img.icons8.com/color/48/000000/git.png"
@@ -62,5 +67,9 @@
     {
         "name": "MySQL",
         "icon": "https://img.icons8.com/color/48/ansible.png"
+    },
+     {
+        "name": "Google sheets",
+        "icon": "https://img.icons8.com/color/48/google-sheets.png"
     }
 ]
