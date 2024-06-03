@@ -6,7 +6,9 @@ Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 ## Web server with SSL certificate
 
-```sudo apt install nginx```
+```
+sudo apt install nginx
+```
 
 ```sudo vi  /etc/nginx/sites-available/default```
 
