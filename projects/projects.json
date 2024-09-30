@@ -5,17 +5,17 @@
     "image": "blogging-app",
     "category": "major",
     "links": {
-      "view": "https://github.com/sohailshaikh23/portfolio/blob/main/assets/images/projects/blogging-app.png",
+      "view": "https://drive.google.com/file/d/1n6_bD9HFfgH15WxZJAljmESV_huyV-Bz/view?usp=drive_link",
       "code": "https://github.com/sohailshaikh23/wanderlust.git"
     }
   },
   {
     "name": "3-Tier Notes-webapp application",
     "desc": "End to End 3-tier web application deployment using Jenkins, Docker and Kubernetes.",
-    "image": "reactprojects",
+    "image": "notes",
     "category": "major",
     "links": {
-      "view": "<LINKEDIN>",
+      "view": "https://drive.google.com/file/d/1ek-kUjmW__ESdiFy_lIZI_H7Erv737v_/view?usp=drive_link",
       "code": "https://github.com/sohailshaikh23/3-tier-application-notes.git"
     }
   },
@@ -25,47 +25,47 @@
     "image": "Programming_language_voting_app",
     "category": "major",
     "links": {
-      "view": "<LINKEDIN>",
+      "view": "https://drive.google.com/file/d/1uxrzITTsFZi1UJcWXu_41lt4aIIs0-Da/view?usp=drive_link",
       "code": "https://github.com/sohailshaikh23/3-tier-application-voting.git"
     }
   },
   {
     "name": "2-tier Message querry web-app deployment",
     "desc": "End to End 3-tier web application deployment using Jenkins, Docker and Kubernetes.",
-    "image": "message_querry",
+    "image": "",
     "category": "major",
     "links": {
-      "view": "<LINKEDIN>",
+      "view": "www.google.com",
       "code": "https://github.com/sohailshaikh23/2-tier-application.git"
     }
   },
   {
     "name": "Node Todo list WebApp",
     "desc": "This is Todo list Web App based on NodeJS, Containerized using Docker, Deployed using kubernetes, Continuously Build CICD with Jenkins",
-    "image": "node-todo",
+    "image": "todo-list",
     "category": "minor",
     "links": {
-      "view": "LINKEDIN",
+      "view": "https://drive.google.com/file/d/1IR-pVgNw_tuQNn9pKae4hXUEaqKVJ-f2/view?usp=drive_link",
       "code": "https://github.com/sohailshaikh23/node-todo.git"
     }
   },
   {
     "name": "Djando based WebApp",
     "desc": "This is Notes WebApp based on Django, It is Containerized using Docker and Deployed using kubernetes to make sure it is HA and scalable ,Continuously Build with Jenkins",
-    "image": "djando-notes",
+    "image": "django_webapp",
     "category": "minor",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://drive.google.com/file/d/1d9w4pxCkf4ylJntV_M-OWNKr4xjwJxl_/view?usp=drive_link",
       "code": "https://github.com/sohailshaikh23/django-notes.git"
     }
   },
   {
     "name": "2048 Web game",
-    "desc": "",
-    "image": "2048-game",
+    "desc": "This is web based arcade game",
+    "image": "2048_game",
     "category": "minor",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "view": "https://drive.google.com/file/d/1eO3r_eZ0c6jZ9vG12ocW0wjyXZL-Kgni/view?usp=sharing",
       "code": "https://github.com/sohailshaikh23/2048-game.git"
     }
   }
