@@ -30,16 +30,6 @@
     }
   },
   {
-    "name": "2-tier Message querry web-app deployment",
-    "desc": "End to End 3-tier web application deployment using Jenkins, Docker and Kubernetes.",
-    "image": "",
-    "category": "major",
-    "links": {
-      "view": "www.google.com",
-      "code": "https://github.com/sohailshaikh23/2-tier-application.git"
-    }
-  },
-  {
     "name": "Node Todo list WebApp",
     "desc": "This is Todo list Web App based on NodeJS, Containerized using Docker, Deployed using kubernetes, Continuously Build CICD with Jenkins",
     "image": "todo-list",
